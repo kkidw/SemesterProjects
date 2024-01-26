@@ -1,0 +1,9 @@
+2023-12-01,pet food,23.56
+12/06/2023,groceries,78.95
+12/03/2023,dog food,56.89
+12/11/2023,phone bill,85.0
+12/12/2023,internet ,60.0
+12/22/2023,CC payment,50.0
+12/31/2023,insurance,100.0
+12/08/202,groceries,65.32
+12/08/2023,pet food,27.05
